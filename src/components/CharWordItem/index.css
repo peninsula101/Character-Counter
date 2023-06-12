@@ -1,0 +1,12 @@
+.list-container {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.output {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-right: 55px;
+  margin-left: 0px;
+}
